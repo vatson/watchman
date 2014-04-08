@@ -1,0 +1,29 @@
+{
+  "name": "watchman",
+  "version": "0.0.0",
+  "description": "Wise phpunit runner",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "~0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vatson/watchman.git"
+  },
+  "keywords": [
+    "runner",
+    "phpunit",
+    "watch",
+    "test"
+  ],
+  "author": "Vadim Tyukov <brainreflex@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatson/watchman/issues"
+  },
+  "homepage": "https://github.com/vatson/watchman"
+}
